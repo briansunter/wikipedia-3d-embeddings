@@ -72,14 +72,13 @@ const DocumentNode: React.FC<DocumentNode & { centroid: { x: number, y: number, 
 
   return (
     <Detailed distances={[0, 20000]}
+    objects={meshRef.current ? [meshRef.current] : []}
       position={[centeredCoords.centeredX, centeredCoords.centeredY, centeredCoords.centeredZ]}>
       <Text
         ref={meshRef}
         font='helvetiker'
         fontSize={180}
         color={colorStyle}
-        // outlineColor={"white"}
-        // outlineWidth={.4}
         outlineColor={"black"}
         outlineWidth={3.5}
       >
@@ -90,7 +89,6 @@ const DocumentNode: React.FC<DocumentNode & { centroid: { x: number, y: number, 
         material={new THREE.MeshBasicMaterial({ color: colorStyle })}
       >
       </Sphere>
-
     </Detailed>
   );
 };
