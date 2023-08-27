@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/wikipedia-embeddings-3d/static/css/main.e6c13ad2.css",
-    "main.js": "/wikipedia-embeddings-3d/static/js/main.9b685d46.js",
-    "index.html": "/wikipedia-embeddings-3d/index.html",
-    "main.e6c13ad2.css.map": "/wikipedia-embeddings-3d/static/css/main.e6c13ad2.css.map",
-    "main.9b685d46.js.map": "/wikipedia-embeddings-3d/static/js/main.9b685d46.js.map"
+    "main.css": "/wikipedia-3d-embeddings/static/css/main.e6c13ad2.css",
+    "main.js": "/wikipedia-3d-embeddings/static/js/main.9b685d46.js",
+    "index.html": "/wikipedia-3d-embeddings/index.html",
+    "main.e6c13ad2.css.map": "/wikipedia-3d-embeddings/static/css/main.e6c13ad2.css.map",
+    "main.9b685d46.js.map": "/wikipedia-3d-embeddings/static/js/main.9b685d46.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
