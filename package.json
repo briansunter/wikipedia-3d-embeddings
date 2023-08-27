@@ -1,5 +1,6 @@
 {
   "name": "wiki",
+  "homepage": "/wikipedia-embeddings-3d",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,9 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.4",
-    "vite": "^4.4.9"
   }
 }

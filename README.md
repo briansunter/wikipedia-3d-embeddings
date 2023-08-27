@@ -18,10 +18,10 @@ The Vital Articles are a collection of the most important articles on Wikipedia,
 
 #### Demo
 #### 1000 Vital Articles
-![1000 Vital Articles](docs/1k.gif)
+![1000 Vital Articles](demo/1k.gif)
 
 #### 10,000 Vital Articles
-![10,000 Vital Articles](docs/10k.gif)
+![10,000 Vital Articles](demo/10k.gif)
 
 #### Close up Screenshot
 ![Close up Screenshot](docs/screenshot.png)
