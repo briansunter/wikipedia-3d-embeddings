@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "wiki"
+version = "0.1.0"
+description = ""
+authors = ["Brian Sunter <2816289+briansunter@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mwxml = "^0.3.3"
+mwparserfromhell = "^0.6.4"
+sentence-transformers = "^2.2.2"
+numpy = "^1.25.2"
+tqdm = "^4.65.1"
+umap-learn = "^0.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

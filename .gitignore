@@ -27,3 +27,4 @@ __pycache__
 *.bz2
 *.db-journal
 public/*
+venv
