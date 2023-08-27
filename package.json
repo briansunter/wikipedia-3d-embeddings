@@ -1,6 +1,6 @@
 {
   "name": "wiki",
-  "homepage": "/wikipedia-embeddings-3d",
+  "homepage": "/wikipedia-3d-embeddings",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
